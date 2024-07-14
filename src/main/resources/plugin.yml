@@ -1,0 +1,7 @@
+name: Fandtpa
+version: '${project.version}'
+main: fand.fandtpa.Main
+api-version: '1.20'
+commands:
+  suicide:
+    description: 自杀
